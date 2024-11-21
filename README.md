@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Creative and innovative web projects.**
 
-- 🤝 I’m looking for help with **Exploring advanced features in Angular and .NET for professional projects.**
+- 🤝 I’m looking for help with **Exploring advanced features in Angular and .NET.**
 
-- 💬 Ask me about **Web development, backend systems, or tips for creating responsive websites.**
+- 💬 Ask me about **Web development.**
 
 - 📫 How to reach me **zemzemamen68@gmail.com**
 
