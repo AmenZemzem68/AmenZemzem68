@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenzemzem68&label=Profile%20views&color=0e75b6&style=flat" alt="amenzemzem68" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amenzemzem68" alt="amenzemzem68" /></a> </p>
-
 - 🔭 I’m currently working on **Web development projects and improving my skills in modern frameworks like React.js and Angular.**
 
 - 🌱 I’m currently learning **Frontend frameworks, backend development, and UI/UX design techniques.**
