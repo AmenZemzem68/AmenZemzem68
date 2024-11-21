@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenzemzem68&label=Profile%20views&color=0e75b6&style=flat" alt="amenzemzem68" /> </p>
 
-- 🔭 I’m currently working on **Web development projects and improving my skills in modern frameworks like React.js and Angular.**
+- 🔭 I’m currently working on **Web development projects and improving my skills.**
 
-- 🌱 I’m currently learning **Frontend frameworks, backend development, and UI/UX design techniques.**
+- 🌱 I’m currently learning **Frontend frameworks, backend development.**
 
-- 👯 I’m looking to collaborate on **Creative and innovative web or software development projects.**
+- 👯 I’m looking to collaborate on **Creative and innovative web projects.**
 
 - 🤝 I’m looking for help with **Exploring advanced features in Angular and .NET for professional projects.**
 
