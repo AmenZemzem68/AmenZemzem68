@@ -1,5 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Amen Zemzem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Amen Zemzem</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia</h3>
 
 
@@ -8,17 +8,17 @@
 ```typescript
 import { Person } from "@humankind";
 
-const samyr: Person = {
+const amen: Person = {
   pronouns: "He" | "Him",
-  workingOn: "Back-end with Elixir",
-  currentlyLearning: "Functional programming with Elixir, and Mobile with Flutter",
+  workingOn: "Back-end with .NET and front-end with Angular",
+  currentlyLearning: "3D design with Blender",
   wantCollaborate: "Open source projects",
-  askMeAbout: ["web dev", "tech", "games", "movies", "travels", "functional programming", "mobile"],
-  funcFact: ["love reading", "sk8boarding", "nature places", "guitar"],
+  askMeAbout: ["web dev", "tech", "games", "movies", "travels", "design", "music"],
+  funcFact: ["Turning ideas into code and coffee into commits "],
 };
 ```
 
-# 💻 Get in touch:
+# 📬 Get in touch:
 <p align="left">
 <a href="https://linkedin.com/in/amenzemzem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amenzemzem" height="30" width="40" /></a>
 <a href="https://fb.com/zemzem.amen.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zemzem.amen.3" height="30" width="40" /></a>
