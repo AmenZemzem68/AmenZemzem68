@@ -5,21 +5,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amenzemzem68&label=Profile%20views&color=0e75b6&style=flat" alt="amenzemzem68" /> </p>
 
-- 🔭 I’m currently working on **Web development projects and improving my skills.**
+```typescript
+import { Person } from "@humankind";
 
-- 🌱 I’m currently learning **Frontend frameworks, backend development.**
+const samyr: Person = {
+  pronouns: "He" | "Him",
+  workingOn: "Back-end with Elixir",
+  currentlyLearning: "Functional programming with Elixir, and Mobile with Flutter",
+  wantCollaborate: "Open source projects",
+  askMeAbout: ["web dev", "tech", "games", "movies", "travels", "functional programming", "mobile"],
+  funcFact: ["love reading", "sk8boarding", "nature places", "guitar"],
+};
+```
 
-- 👯 I’m looking to collaborate on **Creative and innovative web projects.**
-
-- 🤝 I’m looking for help with **Exploring advanced features in Angular and .NET.**
-
-- 💬 Ask me about **Web development.**
-
-- 📫 How to reach me **zemzemamen68@gmail.com**
-
-- ⚡ Fun fact **I use Adobe Illustrator to design logos, brochures, and creative visuals for my projects!**
-
-<h3 align="left">Connect with me:</h3>
+# 💻 Get in touch:
 <p align="left">
 <a href="https://linkedin.com/in/amenzemzem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amenzemzem" height="30" width="40" /></a>
 <a href="https://fb.com/zemzem.amen.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zemzem.amen.3" height="30" width="40" /></a>
