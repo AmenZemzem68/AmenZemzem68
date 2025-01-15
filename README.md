@@ -24,7 +24,7 @@ const amen: Person = {
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zemzem.amen.3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amen_zemzem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amenzemzem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6600?logo=web&logoColor=white)](amen-zemzem-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6600?logo=web&logoColor=white)](https://amen-zemzem.vercel.app/)
 
 
 ## 💻 Tech Stack:
