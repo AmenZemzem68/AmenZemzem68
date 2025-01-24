@@ -14,7 +14,7 @@ const amen: Person = {
   currentlyLearning: "3D design with Blender",
   wantCollaborate: "Open source projects",
   askMeAbout: ["web dev", "tech", "games", "movies", "design", "music"],
-  funcFact: ["Turning ideas into code and coffee into commits "],
+  funFact: ["Turning ideas into code and coffee into commits "],
 };
 ```
 
