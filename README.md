@@ -18,6 +18,7 @@ const amen: Person = {
 };
 ```
 
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="2" />
@@ -55,7 +56,7 @@ const amen: Person = {
 </div>
 
 ###
-
+## 🌐 Socials:
 <div align="left">
   <a href="https://github.com/AmenZemzem68" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
@@ -95,3 +96,6 @@ const amen: Person = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
