@@ -1,4 +1,4 @@
-![Banner](banner-1.png)
+![Banner](banner.gif)
 <h1 align="center">Hello World ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm Amen, a Tunisian web developer !</h3>
 
