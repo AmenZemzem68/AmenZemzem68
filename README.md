@@ -58,7 +58,7 @@ const amen: Person = {
 ###
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://github.com/AmenZemzem68" target="_blank">
+  <a href="https://www.behance.net/amenzemzem" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
   <a href="https://discord.com/invite/4m3n#5850" target="_blank">
