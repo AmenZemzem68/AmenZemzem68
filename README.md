@@ -1,6 +1,6 @@
 ![Banner](banner.gif)
 <h1 align="center">Hello World ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">I'm Amen, a Tunisian web developer !</h3>
+<h3 align="center">I'm Amen, a Freelance Web Developer & Graphic Designer</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amenzemzem68&label=Profile%20views&color=0e75b6&style=flat" alt="amenzemzem68" /> </p>
