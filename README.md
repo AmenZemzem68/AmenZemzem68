@@ -10,7 +10,7 @@ import { Person } from "@humankind";
 
 const amen: Person = {
   pronouns: "He" | "Him",
-  workingOn: "Back-end with .NET and front-end with Angular",
+  workingOn: "Back-end with .NET and front-end with React JS",
   currentlyLearning: "3D design with Blender",
   wantCollaborate: "Open source projects",
   askMeAbout: ["web dev", "tech", "games", "movies", "design", "music"],
