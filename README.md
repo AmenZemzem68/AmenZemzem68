@@ -11,7 +11,7 @@ import { Person } from "@humankind";
 const amen: Person = {
   pronouns: "He" | "Him",
   workingOn: "Back-end with .NET and front-end with React JS",
-  currentlyLearning: "motion effects with Adobe After Effects",
+  currentlyLearning: "Motion effects with Adobe After Effects",
   wantCollaborate: "Open source projects",
   askMeAbout: ["web dev", "tech", "games", "movies", "design", "music"],
   funFact: ["CSS: Can’t Style Stuff"],
